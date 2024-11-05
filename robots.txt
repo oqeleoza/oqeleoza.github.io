@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oqeleoza.github.io/Wpi/sitemap_index.txt
+Sitemap: https://oqeleoza.github.io/gBf/sitemap_index.txt
+Sitemap: https://oqeleoza.github.io/tcA/sitemap_index.txt
+Sitemap: https://oqeleoza.github.io/uCI/sitemap_index.txt
